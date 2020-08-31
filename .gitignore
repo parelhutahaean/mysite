@@ -59,6 +59,9 @@ target/
 # Others
 migrations/
 *.sqlite
+*.sqlite3
 *.png
 *.jpg
 *.jpeg
+
+.env
